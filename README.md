@@ -7,7 +7,7 @@
 
 ### 🔖 Sobre
 Interface criada apartir de um protótipo no Figma, os principais aprendizados durante o desenvolvimento foi em relação ao Figma. Essa ferramenta é capaz de facilitar a vida do front-end através de seus recursos e ferramentas de layout.
-A página ainda estar em desenvolvimento, pretendo criar um carrossel em algumas páginas e melhorar a experiência do usuário na navegação.
+A página ainda estar em desenvolvimento, pretendo criar um carrossel em algumas páginas, dar responsividade e melhorar a experiência do usuário na navegação.
 
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
